@@ -1,7 +1,7 @@
 AFScrollView
 =======================
 
-A lightweight UIScrollView block-driven subclass for easily create multiple pages with embeeded UIViews in Objective-C.
+A lightweight UIScrollView block-driven subclass for easily create multiple pages with embedded UIViews in Objective-C.
 
 ##Preview
 
@@ -33,7 +33,7 @@ In order to configure each page, which will be an UIView, call the block ```-con
     [scrollView configureViewAtIndexWithCompletion:^(UIView *view, NSInteger index, BOOL success) {
 
       //Configure here each page
-      //Every page have a UIView embeeded
+      //Every page have a UIView embedded
       //So, in order to add objects, call [view addSubview:element];
       //The index var will retreive the current index
     }];
