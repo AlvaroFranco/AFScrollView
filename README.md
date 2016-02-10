@@ -7,7 +7,7 @@ A lightweight UIScrollView block-driven subclass for easily create multiple page
 
 ![alt text](https://raw.github.com/AlvaroFranco/AFScrollView/master/preview.gif "Example")
 
-##Cocoapods
+##CocoaPods
 
 AFScrollView is on [CocoaPods](http://cocoapods.org), so you can get the pod by adding this line to your Podfile
 
